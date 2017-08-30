@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+10.2.1<?xml version="1.0" encoding="UTF-8"?>
 <!--
   Licensed to the Apache Software Foundation (ASF) under one
   or more contributor license agreements.  See the NOTICE file
@@ -64,9 +64,9 @@
 					<param name="onload" value="true" />
 				</feature>
 		</config-file>
-	<framework src="com.google.gms:google-services:3.0.0" />	
-        <framework src="com.google.firebase:firebase-core:3.0.0" />
-        <framework src="com.google.firebase:firebase-messaging:3.0.0" />
+	<framework src="com.google.gms:google-services:10.2.1" />	
+        <framework src="com.google.firebase:firebase-core:10.2.1" />
+        <framework src="com.google.firebase:firebase-messaging:10.2.1" />
 		
 		<framework src="src/android/FCMPlugin.gradle" custom="true" type="gradleReference"/>
 			
