@@ -64,9 +64,9 @@
 					<param name="onload" value="true" />
 				</feature>
 		</config-file>
-	<framework src="com.google.gms:google-services:9.2.1" />	
-        <framework src="com.google.firebase:firebase-core:9.2.1" />
-        <framework src="com.google.firebase:firebase-messaging:9.2.1" />
+	<framework src="com.google.gms:google-services:10.2.6" />	
+        <framework src="com.google.firebase:firebase-core:10.2.6" />
+        <framework src="com.google.firebase:firebase-messaging:10.2.6" />
 		
 		<framework src="src/android/FCMPlugin.gradle" custom="true" type="gradleReference"/>
 			
